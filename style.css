@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.btn {
+    border-radius: 32px;
+    padding: 11px 21px;
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    font-style: normal;
+}
+
+.vert {
+    background-color: #4BA463;
+}
+
+.rouge {
+    background-color: red;
+}
+
+.sectionbottom {
+    margin-top: 700px;
+}
+.sectiontop{
+    margin-top: 300px;
+    margin-left: 200px;
+}
+
+
+
+.btn1{
+
+}
+
+
+.btn2{
+
+}
+
+
+.btn3{
+
+}
+
+.btn4{
+
+}
